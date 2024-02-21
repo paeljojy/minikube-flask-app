@@ -1,0 +1,7 @@
+# the virtual environment
+venv/
+
+# IDE files
+Session.vim
+
+
